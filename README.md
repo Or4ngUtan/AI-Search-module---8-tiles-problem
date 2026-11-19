@@ -1,6 +1,6 @@
 19/11/2026
 
-Hi, following is an overview of my solution for maman 01.
+Hi, following is an overview of an Intro to AI assignment #1: Implement modular search-algorithms infrastructure, A*, BFS, and the 8-Tile problem.
 
 ## Usage
 
