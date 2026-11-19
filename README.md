@@ -27,6 +27,7 @@ In addition, because we count at most 1 collision in each row, we can infer that
 Finally, is always higher than Manhattan’s so it is more informed. We could also try and take into account column-collisions, but this complicates the proof, so I decided to leave it out (since i already found a more informed, consistent heuristic already).
 f.	A main function that reads arguments from the command line, and the runs and prints the results of BFS and A* (the latter with my custom heuristic), on the corresponding 8-tile instance.
 4.	running A* with my custom heuristic on the input: 0 7 8 2 1 5 6 4 3:
+
 0 7 8
 2 1 5
 6 4 3
